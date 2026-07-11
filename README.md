@@ -1,20 +1,52 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Sharanya Dyavanandi - Portfolio
 
-# Run and deploy your AI Studio app
+🌐 Live Portfolio: https://sharanya-portfolio-bay.vercel.app/
 
-This contains everything you need to run your app locally.
+Welcome to my personal developer portfolio. This website showcases my skills, projects, certifications, and experience in software development, machine learning, and cloud technologies.
 
-View your app in AI Studio: https://ai.studio/apps/1b1d5a93-7e44-410e-9dae-3a905c074054
+## 🚀 About This Project
 
-## Run Locally
+This portfolio website was created to present my technical journey, projects, achievements, and professional experience in an interactive and responsive design.
 
-**Prerequisites:**  Node.js
+## 🛠️ Technologies Used
+
+- React.js
+- TypeScript
+- Vite
+- HTML5
+- CSS3
+- JavaScript
+
+## 📂 Featured Projects
+
+### 📈 Stock Price Prediction using LSTM
+A machine learning project that predicts stock prices using Long Short-Term Memory (LSTM) neural networks.
+
+🔗 GitHub:
+https://github.com/sharanya-1521/stock-price-prediction-lstm
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 🩺 Pancreatic Cancer Detection using Machine Learning
+A machine learning model that predicts pancreatic cancer risk using clinical and biomarker data.
+
+🔗 GitHub:
+https://github.com/sharanya-1521/Pancreatic-Cancer-Detection-ML
+
+
+## 📜 Certifications
+
+This portfolio includes certifications from:
+
+- Cisco
+- Infosys Springboard
+- AWS
+- Deloitte
+- Salesforce
+
+
+## 💻 Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sharanya-1521/sharanya-portfolio.git
